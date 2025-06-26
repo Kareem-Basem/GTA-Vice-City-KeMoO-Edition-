@@ -1,6 +1,5 @@
 GTA Vice City - KeMoO Edition V. 3
 
-Introduction
 Welcome to the KeMoO Edition (V. 3) of Grand Theft Auto: Vice City! This mod revives the classic 1980s vibe with a modern twist, enhancing graphics, gameplay, and audio while fully respecting Rockstar's rights. The KeMoO Edition provides an innovative experience in the world of Vice City, designed to be enjoyable and exciting.
 Main Changes
 
